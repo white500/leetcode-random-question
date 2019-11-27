@@ -1,0 +1,1628 @@
+{
+  "user_name": "",
+  "num_solved": 0,
+  "num_total": 85,
+  "ac_easy": 0,
+  "ac_medium": 0,
+  "ac_hard": 0,
+  "stat_status_pairs": [
+    {
+      "stat": {
+        "question_id": 1399,
+        "question__title": "Page Recommendations",
+        "question__title_slug": "page-recommendations",
+        "question__hide": false,
+        "total_acs": 19,
+        "total_submitted": 35,
+        "total_column_articles": 3,
+        "frontend_question_id": "1264",
+        "is_new_question": true
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1390,
+        "question__title": "Average Selling Price",
+        "question__title_slug": "average-selling-price",
+        "question__hide": false,
+        "total_acs": 157,
+        "total_submitted": 208,
+        "total_column_articles": 3,
+        "frontend_question_id": "1251",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1377,
+        "question__title": "Number of Comments per Post",
+        "question__title_slug": "number-of-comments-per-post",
+        "question__hide": false,
+        "total_acs": 218,
+        "total_submitted": 333,
+        "total_column_articles": 3,
+        "frontend_question_id": "1241",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1357,
+        "question__title": "Report Contiguous Dates",
+        "question__title_slug": "report-contiguous-dates",
+        "question__hide": false,
+        "total_acs": 95,
+        "total_submitted": 160,
+        "total_column_articles": 4,
+        "frontend_question_id": "1225",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1339,
+        "question__title": "Team Scores in Football Tournament",
+        "question__title_slug": "team-scores-in-football-tournament",
+        "question__hide": false,
+        "total_acs": 92,
+        "total_submitted": 168,
+        "total_column_articles": 4,
+        "frontend_question_id": "1212",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1338,
+        "question__title": "Queries Quality and Percentage",
+        "question__title_slug": "queries-quality-and-percentage",
+        "question__hide": false,
+        "total_acs": 175,
+        "total_submitted": 261,
+        "total_column_articles": 4,
+        "frontend_question_id": "1211",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1328,
+        "question__title": "Monthly Transactions II",
+        "question__title_slug": "monthly-transactions-ii",
+        "question__hide": false,
+        "total_acs": 163,
+        "total_submitted": 418,
+        "total_column_articles": 7,
+        "frontend_question_id": "1205",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1327,
+        "question__title": "Last Person to Fit in the Elevator",
+        "question__title_slug": "last-person-to-fit-in-the-elevator",
+        "question__hide": false,
+        "total_acs": 80,
+        "total_submitted": 183,
+        "total_column_articles": 6,
+        "frontend_question_id": "1204",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1318,
+        "question__title": "Tournament Winners",
+        "question__title_slug": "tournament-winners",
+        "question__hide": false,
+        "total_acs": 108,
+        "total_submitted": 265,
+        "total_column_articles": 3,
+        "frontend_question_id": "1194",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1317,
+        "question__title": "Monthly Transactions I",
+        "question__title_slug": "monthly-transactions-i",
+        "question__hide": false,
+        "total_acs": 275,
+        "total_submitted": 468,
+        "total_column_articles": 5,
+        "frontend_question_id": "1193",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1301,
+        "question__title": "Reformat Department Table",
+        "question__title_slug": "reformat-department-table",
+        "question__hide": false,
+        "total_acs": 1489,
+        "total_submitted": 2348,
+        "total_column_articles": 7,
+        "frontend_question_id": "1179",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1292,
+        "question__title": "Immediate Food Delivery II",
+        "question__title_slug": "immediate-food-delivery-ii",
+        "question__hide": false,
+        "total_acs": 111,
+        "total_submitted": 186,
+        "total_column_articles": 6,
+        "frontend_question_id": "1174",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1291,
+        "question__title": "Immediate Food Delivery I",
+        "question__title_slug": "immediate-food-delivery-i",
+        "question__hide": false,
+        "total_acs": 229,
+        "total_submitted": 284,
+        "total_column_articles": 5,
+        "frontend_question_id": "1173",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1278,
+        "question__title": "Product Price at a Given Date",
+        "question__title_slug": "product-price-at-a-given-date",
+        "question__hide": false,
+        "total_acs": 112,
+        "total_submitted": 214,
+        "total_column_articles": 3,
+        "frontend_question_id": "1164",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1269,
+        "question__title": "Market Analysis II",
+        "question__title_slug": "market-analysis-ii",
+        "question__hide": false,
+        "total_acs": 71,
+        "total_submitted": 154,
+        "total_column_articles": 4,
+        "frontend_question_id": "1159",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1268,
+        "question__title": "Market Analysis I",
+        "question__title_slug": "market-analysis-i",
+        "question__hide": false,
+        "total_acs": 116,
+        "total_submitted": 222,
+        "total_column_articles": 2,
+        "frontend_question_id": "1158",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1259,
+        "question__title": "Article Views II",
+        "question__title_slug": "article-views-ii",
+        "question__hide": false,
+        "total_acs": 126,
+        "total_submitted": 314,
+        "total_column_articles": 2,
+        "frontend_question_id": "1149",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1258,
+        "question__title": "Article Views I",
+        "question__title_slug": "article-views-i",
+        "question__hide": false,
+        "total_acs": 345,
+        "total_submitted": 447,
+        "total_column_articles": 2,
+        "frontend_question_id": "1148",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1246,
+        "question__title": "User Activity for the Past 30 Days II",
+        "question__title_slug": "user-activity-for-the-past-30-days-ii",
+        "question__hide": false,
+        "total_acs": 202,
+        "total_submitted": 542,
+        "total_column_articles": 3,
+        "frontend_question_id": "1142",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1245,
+        "question__title": "User Activity for the Past 30 Days I",
+        "question__title_slug": "user-activity-for-the-past-30-days-i",
+        "question__hide": false,
+        "total_acs": 211,
+        "total_submitted": 352,
+        "total_column_articles": 4,
+        "frontend_question_id": "1141",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1237,
+        "question__title": "Reported Posts II",
+        "question__title_slug": "reported-posts-ii",
+        "question__hide": false,
+        "total_acs": 115,
+        "total_submitted": 319,
+        "total_column_articles": 2,
+        "frontend_question_id": "1132",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1226,
+        "question__title": "User Purchase Platform",
+        "question__title_slug": "user-purchase-platform",
+        "question__hide": false,
+        "total_acs": 60,
+        "total_submitted": 136,
+        "total_column_articles": 6,
+        "frontend_question_id": "1127",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1225,
+        "question__title": "Active Businesses",
+        "question__title_slug": "active-businesses",
+        "question__hide": false,
+        "total_acs": 129,
+        "total_submitted": 259,
+        "total_column_articles": 4,
+        "frontend_question_id": "1126",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1215,
+        "question__title": "Reported Posts",
+        "question__title_slug": "reported-posts",
+        "question__hide": false,
+        "total_acs": 199,
+        "total_submitted": 332,
+        "total_column_articles": 2,
+        "frontend_question_id": "1113",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1214,
+        "question__title": "Highest Grade For Each Student",
+        "question__title_slug": "highest-grade-for-each-student",
+        "question__hide": false,
+        "total_acs": 203,
+        "total_submitted": 369,
+        "total_column_articles": 3,
+        "frontend_question_id": "1112",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1204,
+        "question__title": "New Users Daily Count",
+        "question__title_slug": "new-users-daily-count",
+        "question__hide": false,
+        "total_acs": 188,
+        "total_submitted": 478,
+        "total_column_articles": 3,
+        "frontend_question_id": "1107",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1198,
+        "question__title": "Unpopular Books",
+        "question__title_slug": "unpopular-books",
+        "question__hide": false,
+        "total_acs": 551,
+        "total_submitted": 1456,
+        "total_column_articles": 12,
+        "frontend_question_id": "1098",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1193,
+        "question__title": "Game Play Analysis V",
+        "question__title_slug": "game-play-analysis-v",
+        "question__hide": false,
+        "total_acs": 234,
+        "total_submitted": 550,
+        "total_column_articles": 7,
+        "frontend_question_id": "1097",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1182,
+        "question__title": "Game Play Analysis IV",
+        "question__title_slug": "game-play-analysis-iv",
+        "question__hide": false,
+        "total_acs": 827,
+        "total_submitted": 1939,
+        "total_column_articles": 27,
+        "frontend_question_id": "550",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1181,
+        "question__title": "Game Play Analysis III",
+        "question__title_slug": "game-play-analysis-iii",
+        "question__hide": false,
+        "total_acs": 996,
+        "total_submitted": 1581,
+        "total_column_articles": 17,
+        "frontend_question_id": "534",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1180,
+        "question__title": "Game Play Analysis II",
+        "question__title_slug": "game-play-analysis-ii",
+        "question__hide": false,
+        "total_acs": 1380,
+        "total_submitted": 2750,
+        "total_column_articles": 22,
+        "frontend_question_id": "512",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1179,
+        "question__title": "Game Play Analysis I",
+        "question__title_slug": "game-play-analysis-i",
+        "question__hide": false,
+        "total_acs": 1340,
+        "total_submitted": 1878,
+        "total_column_articles": 10,
+        "frontend_question_id": "511",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1174,
+        "question__title": "Sales Analysis III",
+        "question__title_slug": "sales-analysis-iii",
+        "question__hide": false,
+        "total_acs": 833,
+        "total_submitted": 1822,
+        "total_column_articles": 12,
+        "frontend_question_id": "1084",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1173,
+        "question__title": "Sales Analysis II",
+        "question__title_slug": "sales-analysis-ii",
+        "question__hide": false,
+        "total_acs": 793,
+        "total_submitted": 1658,
+        "total_column_articles": 10,
+        "frontend_question_id": "1083",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1172,
+        "question__title": "Sales Analysis I",
+        "question__title_slug": "sales-analysis-i",
+        "question__hide": false,
+        "total_acs": 1109,
+        "total_submitted": 1504,
+        "total_column_articles": 14,
+        "frontend_question_id": "1082",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1163,
+        "question__title": "Project Employees III",
+        "question__title_slug": "project-employees-iii",
+        "question__hide": false,
+        "total_acs": 634,
+        "total_submitted": 959,
+        "total_column_articles": 9,
+        "frontend_question_id": "1077",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1162,
+        "question__title": "Project Employees II",
+        "question__title_slug": "project-employees-ii",
+        "question__hide": false,
+        "total_acs": 775,
+        "total_submitted": 1543,
+        "total_column_articles": 14,
+        "frontend_question_id": "1076",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1161,
+        "question__title": "Project Employees I",
+        "question__title_slug": "project-employees-i",
+        "question__hide": false,
+        "total_acs": 616,
+        "total_submitted": 1424,
+        "total_column_articles": 11,
+        "frontend_question_id": "1075",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1155,
+        "question__title": "Product Sales Analysis III",
+        "question__title_slug": "product-sales-analysis-iii",
+        "question__hide": false,
+        "total_acs": 564,
+        "total_submitted": 1286,
+        "total_column_articles": 3,
+        "frontend_question_id": "1070",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1154,
+        "question__title": "Product Sales Analysis II",
+        "question__title_slug": "product-sales-analysis-ii",
+        "question__hide": false,
+        "total_acs": 1171,
+        "total_submitted": 1470,
+        "total_column_articles": 3,
+        "frontend_question_id": "1069",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1153,
+        "question__title": "Product Sales Analysis I",
+        "question__title_slug": "product-sales-analysis-i",
+        "question__hide": false,
+        "total_acs": 1047,
+        "total_submitted": 1313,
+        "total_column_articles": 4,
+        "frontend_question_id": "1068",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1136,
+        "question__title": "Actors and Directors Who Cooperated At Least Three Times",
+        "question__title_slug": "actors-and-directors-who-cooperated-at-least-three-times",
+        "question__hide": false,
+        "total_acs": 1196,
+        "total_submitted": 1646,
+        "total_column_articles": 5,
+        "frontend_question_id": "1050",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 1135,
+        "question__title": "Customers Who Bought All Products",
+        "question__title_slug": "customers-who-bought-all-products",
+        "question__hide": false,
+        "total_acs": 755,
+        "total_submitted": 1291,
+        "total_column_articles": 5,
+        "frontend_question_id": "1045",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 627,
+        "question__title": "Swap Salary",
+        "question__title_slug": "swap-salary",
+        "question__hide": false,
+        "total_acs": 24331,
+        "total_submitted": 33132,
+        "total_column_articles": 22,
+        "frontend_question_id": "627",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 626,
+        "question__title": "Exchange Seats",
+        "question__title_slug": "exchange-seats",
+        "question__hide": false,
+        "total_acs": 12392,
+        "total_submitted": 18978,
+        "total_column_articles": 35,
+        "frontend_question_id": "626",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 620,
+        "question__title": "Not Boring Movies",
+        "question__title_slug": "not-boring-movies",
+        "question__hide": false,
+        "total_acs": 28432,
+        "total_submitted": 38761,
+        "total_column_articles": 32,
+        "frontend_question_id": "620",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 619,
+        "question__title": "Biggest Single Number",
+        "question__title_slug": "biggest-single-number",
+        "question__hide": false,
+        "total_acs": 1153,
+        "total_submitted": 2511,
+        "total_column_articles": 11,
+        "frontend_question_id": "619",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 618,
+        "question__title": "Students Report By Geography",
+        "question__title_slug": "students-report-by-geography",
+        "question__hide": false,
+        "total_acs": 241,
+        "total_submitted": 517,
+        "total_column_articles": 4,
+        "frontend_question_id": "618",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 615,
+        "question__title": "Average Salary: Departments VS Company",
+        "question__title_slug": "average-salary-departments-vs-company",
+        "question__hide": false,
+        "total_acs": 390,
+        "total_submitted": 952,
+        "total_column_articles": 12,
+        "frontend_question_id": "615",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 614,
+        "question__title": "Second Degree Follower",
+        "question__title_slug": "second-degree-follower",
+        "question__hide": false,
+        "total_acs": 600,
+        "total_submitted": 2209,
+        "total_column_articles": 5,
+        "frontend_question_id": "614",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 613,
+        "question__title": "Shortest Distance in a Line",
+        "question__title_slug": "shortest-distance-in-a-line",
+        "question__hide": false,
+        "total_acs": 1292,
+        "total_submitted": 1611,
+        "total_column_articles": 9,
+        "frontend_question_id": "613",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 612,
+        "question__title": "Shortest Distance in a Plane",
+        "question__title_slug": "shortest-distance-in-a-plane",
+        "question__hide": false,
+        "total_acs": 557,
+        "total_submitted": 928,
+        "total_column_articles": 7,
+        "frontend_question_id": "612",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 610,
+        "question__title": "Triangle Judgement",
+        "question__title_slug": "triangle-judgement",
+        "question__hide": false,
+        "total_acs": 998,
+        "total_submitted": 1588,
+        "total_column_articles": 7,
+        "frontend_question_id": "610",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 608,
+        "question__title": "Tree Node",
+        "question__title_slug": "tree-node",
+        "question__hide": false,
+        "total_acs": 650,
+        "total_submitted": 985,
+        "total_column_articles": 10,
+        "frontend_question_id": "608",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 607,
+        "question__title": "Sales Person",
+        "question__title_slug": "sales-person",
+        "question__hide": false,
+        "total_acs": 1110,
+        "total_submitted": 1730,
+        "total_column_articles": 10,
+        "frontend_question_id": "607",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 603,
+        "question__title": "Consecutive Available Seats",
+        "question__title_slug": "consecutive-available-seats",
+        "question__hide": false,
+        "total_acs": 1079,
+        "total_submitted": 1637,
+        "total_column_articles": 9,
+        "frontend_question_id": "603",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 602,
+        "question__title": "Friend Requests II: Who Has the Most Friends",
+        "question__title_slug": "friend-requests-ii-who-has-the-most-friends",
+        "question__hide": false,
+        "total_acs": 585,
+        "total_submitted": 1101,
+        "total_column_articles": 9,
+        "frontend_question_id": "602",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 601,
+        "question__title": "Human Traffic of Stadium",
+        "question__title_slug": "human-traffic-of-stadium",
+        "question__hide": false,
+        "total_acs": 8067,
+        "total_submitted": 18416,
+        "total_column_articles": 39,
+        "frontend_question_id": "601",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 597,
+        "question__title": "Friend Requests I: Overall Acceptance Rate",
+        "question__title_slug": "friend-requests-i-overall-acceptance-rate",
+        "question__hide": false,
+        "total_acs": 852,
+        "total_submitted": 2107,
+        "total_column_articles": 7,
+        "frontend_question_id": "597",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 596,
+        "question__title": "Classes More Than 5 Students",
+        "question__title_slug": "classes-more-than-5-students",
+        "question__hide": false,
+        "total_acs": 22210,
+        "total_submitted": 57262,
+        "total_column_articles": 24,
+        "frontend_question_id": "596",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 595,
+        "question__title": "Big Countries",
+        "question__title_slug": "big-countries",
+        "question__hide": false,
+        "total_acs": 34298,
+        "total_submitted": 45248,
+        "total_column_articles": 21,
+        "frontend_question_id": "595",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 586,
+        "question__title": "Customer Placing the Largest Number of Orders",
+        "question__title_slug": "customer-placing-the-largest-number-of-orders",
+        "question__hide": false,
+        "total_acs": 1337,
+        "total_submitted": 1864,
+        "total_column_articles": 9,
+        "frontend_question_id": "586",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 585,
+        "question__title": "Investments in 2016",
+        "question__title_slug": "investments-in-2016",
+        "question__hide": false,
+        "total_acs": 614,
+        "total_submitted": 1236,
+        "total_column_articles": 8,
+        "frontend_question_id": "585",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 584,
+        "question__title": "Find Customer Referee",
+        "question__title_slug": "find-customer-referee",
+        "question__hide": false,
+        "total_acs": 1359,
+        "total_submitted": 1824,
+        "total_column_articles": 7,
+        "frontend_question_id": "584",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 580,
+        "question__title": "Count Student Number in Departments",
+        "question__title_slug": "count-student-number-in-departments",
+        "question__hide": false,
+        "total_acs": 826,
+        "total_submitted": 1772,
+        "total_column_articles": 7,
+        "frontend_question_id": "580",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 579,
+        "question__title": "Find Cumulative Salary of an Employee",
+        "question__title_slug": "find-cumulative-salary-of-an-employee",
+        "question__hide": false,
+        "total_acs": 526,
+        "total_submitted": 1448,
+        "total_column_articles": 13,
+        "frontend_question_id": "579",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 578,
+        "question__title": "Get Highest Answer Rate Question",
+        "question__title_slug": "get-highest-answer-rate-question",
+        "question__hide": false,
+        "total_acs": 689,
+        "total_submitted": 1653,
+        "total_column_articles": 9,
+        "frontend_question_id": "578",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 577,
+        "question__title": "Employee Bonus",
+        "question__title_slug": "employee-bonus",
+        "question__hide": false,
+        "total_acs": 1399,
+        "total_submitted": 2035,
+        "total_column_articles": 8,
+        "frontend_question_id": "577",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 574,
+        "question__title": "Winning Candidate",
+        "question__title_slug": "winning-candidate",
+        "question__hide": false,
+        "total_acs": 892,
+        "total_submitted": 2014,
+        "total_column_articles": 10,
+        "frontend_question_id": "574",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 571,
+        "question__title": "Find Median Given Frequency of Numbers",
+        "question__title_slug": "find-median-given-frequency-of-numbers",
+        "question__hide": false,
+        "total_acs": 317,
+        "total_submitted": 681,
+        "total_column_articles": 10,
+        "frontend_question_id": "571",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 570,
+        "question__title": "Managers with at Least 5 Direct Reports",
+        "question__title_slug": "managers-with-at-least-5-direct-reports",
+        "question__hide": false,
+        "total_acs": 1034,
+        "total_submitted": 1614,
+        "total_column_articles": 10,
+        "frontend_question_id": "570",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 569,
+        "question__title": "Median Employee Salary",
+        "question__title_slug": "median-employee-salary",
+        "question__hide": false,
+        "total_acs": 519,
+        "total_submitted": 1183,
+        "total_column_articles": 17,
+        "frontend_question_id": "569",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": true,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 262,
+        "question__title": "Trips and Users",
+        "question__title_slug": "trips-and-users",
+        "question__hide": false,
+        "total_acs": 8679,
+        "total_submitted": 19556,
+        "total_column_articles": 46,
+        "frontend_question_id": "262",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 197,
+        "question__title": "Rising Temperature",
+        "question__title_slug": "rising-temperature",
+        "question__hide": false,
+        "total_acs": 23305,
+        "total_submitted": 48398,
+        "total_column_articles": 36,
+        "frontend_question_id": "197",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 196,
+        "question__title": "Delete Duplicate Emails",
+        "question__title_slug": "delete-duplicate-emails",
+        "question__hide": false,
+        "total_acs": 25163,
+        "total_submitted": 43640,
+        "total_column_articles": 21,
+        "frontend_question_id": "196",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 185,
+        "question__title": "Department Top Three Salaries",
+        "question__title_slug": "department-top-three-salaries",
+        "question__hide": false,
+        "total_acs": 15606,
+        "total_submitted": 38713,
+        "total_column_articles": 52,
+        "frontend_question_id": "185",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 3 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 184,
+        "question__title": "Department Highest Salary",
+        "question__title_slug": "department-highest-salary",
+        "question__hide": false,
+        "total_acs": 23511,
+        "total_submitted": 55338,
+        "total_column_articles": 55,
+        "frontend_question_id": "184",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 183,
+        "question__title": "Customers Who Never Order",
+        "question__title_slug": "customers-who-never-order",
+        "question__hide": false,
+        "total_acs": 38947,
+        "total_submitted": 60601,
+        "total_column_articles": 36,
+        "frontend_question_id": "183",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 182,
+        "question__title": "Duplicate Emails",
+        "question__title_slug": "duplicate-emails",
+        "question__hide": false,
+        "total_acs": 51377,
+        "total_submitted": 66540,
+        "total_column_articles": 43,
+        "frontend_question_id": "182",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 181,
+        "question__title": "Employees Earning More Than Their Managers",
+        "question__title_slug": "employees-earning-more-than-their-managers",
+        "question__hide": false,
+        "total_acs": 41655,
+        "total_submitted": 62080,
+        "total_column_articles": 56,
+        "frontend_question_id": "181",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 180,
+        "question__title": "Consecutive Numbers",
+        "question__title_slug": "consecutive-numbers",
+        "question__hide": false,
+        "total_acs": 20095,
+        "total_submitted": 42305,
+        "total_column_articles": 45,
+        "frontend_question_id": "180",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 178,
+        "question__title": "Rank Scores",
+        "question__title_slug": "rank-scores",
+        "question__hide": false,
+        "total_acs": 27738,
+        "total_submitted": 46952,
+        "total_column_articles": 65,
+        "frontend_question_id": "178",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 177,
+        "question__title": "Nth Highest Salary",
+        "question__title_slug": "nth-highest-salary",
+        "question__hide": false,
+        "total_acs": 27558,
+        "total_submitted": 64028,
+        "total_column_articles": 40,
+        "frontend_question_id": "177",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 2 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 176,
+        "question__title": "Second Highest Salary",
+        "question__title_slug": "second-highest-salary",
+        "question__hide": false,
+        "total_acs": 61366,
+        "total_submitted": 184697,
+        "total_column_articles": 56,
+        "frontend_question_id": "176",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    },
+    {
+      "stat": {
+        "question_id": 175,
+        "question__title": "Combine Two Tables",
+        "question__title_slug": "combine-two-tables",
+        "question__hide": false,
+        "total_acs": 83122,
+        "total_submitted": 117554,
+        "total_column_articles": 55,
+        "frontend_question_id": "175",
+        "is_new_question": false
+      },
+      "status": null,
+      "difficulty": { "level": 1 },
+      "paid_only": false,
+      "is_favor": false,
+      "frequency": 0,
+      "progress": 0
+    }
+  ],
+  "frequency_high": 0,
+  "frequency_mid": 0,
+  "category_slug": "database"
+}
