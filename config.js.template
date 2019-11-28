@@ -1,0 +1,7 @@
+const config = {
+  username: '',
+  password: '',
+  isOnline: true
+}
+
+module.exports = config;
